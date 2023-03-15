@@ -246,7 +246,7 @@ align-items:center;
   position: absolute;
   height: 290px;
   width: 660px;
-  background-image: url("/img/menu_animation.gif");
+  background-image: url("../img/menu_animation.gif");
   margin-left: 118px;
   bottom: 76px;
   
